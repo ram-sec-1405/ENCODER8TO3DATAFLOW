@@ -66,7 +66,7 @@ endmodule
 
 Developed by: RAMPRASATH R
 RegisterNumber: 212223220086
-*/
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
